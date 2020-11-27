@@ -1,0 +1,15 @@
+.userinfo {
+  display: flex;
+  color: red;
+  flex-direction: column;
+  align-items: center;
+}
+.userinfo .userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+.userinfo .userinfo-nickname {
+  color: #aaa;
+}
